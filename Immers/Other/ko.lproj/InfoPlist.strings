@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Immers
+
+  Created by developer on 2022/5/13.
+  
+*/
+
+CFBundleDisplayName = "NuWo";
+NSCameraUsageDescription = "사진/비디오 업로드용 프로필 사진, 사진 또는 비디오";
+NSPhotoLibraryUsageDescription = "사진첩에서 사진/비디오를 선택하여 아바타, 사진 또는 비디오를 업로드할 수 있습니다.";
+NSLocationWhenInUseUsageDescription = "네트워크를 구성하기 위해 외부에 연결된 장치를 지원하기 위해 Wi-Fi 정보를 얻기 위해 지리적 위치를 사용해야 합니다.";
+NSLocationUsageDescription = "네트워크를 구성하기 위해 외부에 연결된 장치를 지원하기 위해 Wi-Fi 정보를 얻기 위해 지리적 위치를 사용해야 합니다.";

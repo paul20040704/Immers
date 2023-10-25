@@ -1,0 +1,121 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - AliyunOSSiOS (2.10.13)
+  - Bugly (2.5.93)
+  - CocoaAsyncSocket (7.6.5)
+  - DZNEmptyDataSet (1.8.1)
+  - GoldRaccoon (1.0.2)
+  - JCore (3.2.3-noidfa)
+  - JPush (4.8.0):
+    - JCore (>= 2.0.0)
+  - Masonry (1.1.0)
+  - MJRefresh (3.7.5)
+  - MQTTClient (0.15.3):
+    - MQTTClient/Core (= 0.15.3)
+  - MQTTClient/Core (0.15.3):
+    - MQTTClient/Manager
+    - MQTTClient/Min
+  - MQTTClient/Manager (0.15.3):
+    - MQTTClient/Min
+  - MQTTClient/Min (0.15.3)
+  - RSKImageCropper (4.0.0)
+  - SVProgressHUD (2.2.5)
+  - UMCommon (7.3.8):
+    - UMDevice
+  - UMDevice (2.2.1)
+  - WechatOpenSDK (1.9.9)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - AFNetworking
+  - AliyunOSSiOS (= 2.10.13)
+  - Bugly
+  - CocoaAsyncSocket
+  - DZNEmptyDataSet
+  - GoldRaccoon
+  - JCore (= 3.2.3-noidfa)
+  - JPush (= 4.8.0)
+  - Masonry
+  - MJRefresh
+  - MQTTClient
+  - RSKImageCropper
+  - SVProgressHUD
+  - UMCommon
+  - UMDevice
+  - WechatOpenSDK
+  - YYModel
+  - YYText
+  - YYWebImage
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - AliyunOSSiOS
+    - Bugly
+    - CocoaAsyncSocket
+    - DZNEmptyDataSet
+    - GoldRaccoon
+    - JCore
+    - JPush
+    - Masonry
+    - MJRefresh
+    - MQTTClient
+    - RSKImageCropper
+    - SVProgressHUD
+    - UMCommon
+    - UMDevice
+    - WechatOpenSDK
+    - YYCache
+    - YYImage
+    - YYModel
+    - YYText
+    - YYWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  AliyunOSSiOS: 8469b21f375813e0da340d63cbae1dadbfb0f0bf
+  Bugly: b8715e6ec4004b7f7fbffab0643ba80545aee3da
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  GoldRaccoon: a9143566afe37c2aba38589512aef83566a52573
+  JCore: cec6c836350ac9e30f7241e6cd0d5fdcfb927da6
+  JPush: b4b212aa773928303f25dafb5eb048b34232fd3a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  MQTTClient: 0dfa04e789479c2e461786464969895c1fcb0875
+  RSKImageCropper: 90dfe482402fb8a40cabd5fea65186d9102cc425
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  UMCommon: fdb5bac9e7ec2aca4f9cfc0febf414b59ed302cb
+  UMDevice: 053478c4b4d7292f31f0a275c227d3c4007a5571
+  WechatOpenSDK: 9bf85605d50000b35e5ea679a76582426a30c595
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: 7e78258613d471d2a495b63319461c1154100a90
+
+COCOAPODS: 1.12.1

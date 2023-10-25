@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="home" transform="translate(0)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="22.5" cy="22.5" r="22.5" transform="translate(0 0)" fill="#e9edf5"/>
+    <g id="home-2" data-name="home" transform="translate(11.246 10.442)">
+      <path id="XMLID_219_" d="M22.341,12.4a1.584,1.584,0,0,1-1.494,1.038H20.3V21.3a.715.715,0,0,1-.715.715H15.3v-5a3.574,3.574,0,0,0-7.149,0v5H3.859a.715.715,0,0,1-.715-.715V13.438H2.6a1.6,1.6,0,0,1-1.051-2.8L9.9,2.729a2.658,2.658,0,0,1,3.654,0l8.369,7.925A1.575,1.575,0,0,1,22.341,12.4Z" transform="translate(-0.233 0.297)" fill="#95a9d3"/>
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="22.979" height="24.977" fill="none"/>
+    </g>
+  </g>
+</svg>

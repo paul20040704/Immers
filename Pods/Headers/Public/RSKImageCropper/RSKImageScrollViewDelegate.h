@@ -1,0 +1,1 @@
+../../../RSKImageCropper/RSKImageCropper/RSKImageScrollViewDelegate.h

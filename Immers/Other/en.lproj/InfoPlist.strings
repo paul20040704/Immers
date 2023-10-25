@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Immers
+
+  Created by developer on 2022/5/13.
+  
+*/
+
+CFBundleDisplayName = "NuWo";
+NSCameraUsageDescription = "Be used to takke photo and video,  upload photo proffile, picture or video";
+NSPhotoLibraryUsageDescription = "Be used to select photo and video from the album, upload photo profile, picture or video";
+NSLocationWhenInUseUsageDescription = "We need to use your geographic location to obtain Wi-Fi information to assist externally connected devices to configure the network";
+NSLocationUsageDescription = "We need to use your geographic location to obtain Wi-Fi information to assist externally connected devices to configure the network";

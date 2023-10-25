@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="45" viewBox="0 0 46 45">
+  <g id="file" transform="translate(0.382)">
+    <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="23" cy="22.5" rx="23" ry="22.5" transform="translate(-0.382 0)" fill="#e9edf5"/>
+    <g id="folder" transform="translate(11.288 10.442)">
+      <path id="file_x5F_folder" d="M23.349,22.3,23.272,7.372a.8.8,0,0,0-.763-.83l-9.77.083c-.305,0-.534-.581-.534-.83V5.713a.886.886,0,0,0-.84-.913l-5.19.083a.8.8,0,0,0-.763.83V5.8c0,.249-.229.83-.534.83h0a.859.859,0,0,0-.763.83v4.314H2.436s-.763,0-.458.913l1.832,9.706a.828.828,0,0,0,.763.913l18.318-.166C23.425,23.217,23.349,22.3,23.349,22.3Zm-.992-9.375.076,9.789L20.6,12.267a.691.691,0,0,0-.763-.5l-14.731.083V8.533l17.249-.166V12.93Z" transform="translate(-1.906 -2.502)" fill="#95a9d3"/>
+      <rect id="Rectangle_70" data-name="Rectangle 70" width="22.979" height="24.977" transform="translate(0 0)" fill="none"/>
+    </g>
+  </g>
+</svg>

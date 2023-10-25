@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="0 0 49 49">
+  <g id="Playlist" transform="translate(-311 -615)">
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(311 615)" fill="none" stroke="#6988f5" stroke-width="1.5">
+      <circle cx="24.5" cy="24.5" r="24.5" stroke="none"/>
+      <circle cx="24.5" cy="24.5" r="23.75" fill="none"/>
+    </g>
+    <path id="play-svgrepo-com" d="M24.333,13.671l-12.392-6.2A3.414,3.414,0,0,0,7,10.529V22.242A3.414,3.414,0,0,0,11.941,25.3l12.392-6.2A3.035,3.035,0,0,0,24.333,13.671Z" transform="translate(319 622.89)" fill="#6988f5"/>
+  </g>
+</svg>
